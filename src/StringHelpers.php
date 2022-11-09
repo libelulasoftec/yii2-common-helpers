@@ -1,6 +1,6 @@
 <?php
 
-namespace taguz91\CommonHelpers;
+namespace Libelulasoft\CommonHelpers;
 
 class StringHelpers
 {

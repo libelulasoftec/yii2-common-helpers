@@ -1,5 +1,5 @@
 {
-  "name": "taguz91/yii2-common-helpers",
+  "name": "libelulasoft/yii2-common-helpers",
   "description": "Common helpers para yii2 y mongodb",
   "type": "yii2-extension",
   "keywords": [
@@ -33,7 +33,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "taguz91\\CommonHelpers\\": "src"
+      "Libelulasoft\\CommonHelpers\\": "src"
     }
   }
 }
