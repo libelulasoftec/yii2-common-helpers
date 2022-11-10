@@ -38,7 +38,7 @@ composer remove taguz91/yii2-common-helpers
 composer require libelulasoft/yii2-common-helpers
 ```
 
-3. Se debe cambiar el namespace `taguz01\CommonHelpers` a `Libelulasoft\CommonHelpers` en todo el proyecto.
+3. Se debe cambiar el namespace `taguz91\CommonHelpers` a `Libelulasoft\CommonHelpers` en todo el proyecto.
 
 4. Probar que todo funcione de forma correcta.
 
