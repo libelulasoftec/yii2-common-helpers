@@ -21,6 +21,26 @@ or add
 
 to the require section of your `composer.json` file.
 
+Migration
+-----
+
+Si se quiere migrar de la version `taguz91/yii2-common-helpers` a la nueva version `libelulasoft/yii2-common-helpers` se debe seguir los siguientes pasos: 
+
+1. Eliminar la version actual
+
+```
+composer remove taguz91/yii2-common-helpers
+```
+
+2. Instalar la nueva version 
+
+```
+composer require libelulasoft/yii2-common-helpers
+```
+
+3. Se debe cambiar el namespace `taguz01\CommonHelpers` a `Libelulasoft\CommonHelpers` en todo el proyecto.
+
+4. Probar que todo funcione de forma correcta.
 
 Usage
 -----
